@@ -45,7 +45,7 @@ And many more.
 ---
 
 ### 🌐 Find Me Online
-- 🌍 [OrganikPI.com](https://organikpi.com) – My digital growth studio  
+- 🌍 [OrganiKPI.com](https://organikpi.com)   
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
 - 🧰 [npm Profile](https://www.npmjs.com/~danielshashko)  
 - 🐦 [Twitter](https://twitter.com/yourhandle)  
