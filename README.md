@@ -48,7 +48,6 @@ And many more.
 - 🌍 [OrganiKPI.com](https://organikpi.com)   
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
 - 🧰 [npm Profile](https://www.npmjs.com/~danielshashko)  
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
 
 ---
 
